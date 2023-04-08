@@ -1,0 +1,28 @@
+.menu {
+    list-style: none;
+    padding: 20px;
+    width: 300px;
+    margin-left: 40px;
+    background-color: rgba(176, 102, 46, 0.121);
+}
+
+.menu_item a {
+    background-color: rgb(32, 39, 39);
+    color: aliceblue;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+
+p par {
+    background-color: rgba(0, 0, 255, 0.174);
+    transition: 0.6s;
+}
+
+.par:hover {
+    background-color: rgba(165, 42, 42, 0.209);
+    color: antiquewhite;
+    padding: 20px;
+    width: 300px;
+}
